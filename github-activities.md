@@ -9,7 +9,6 @@ Step 1
 {: .label .label-step}
 Create a new GitHub repository
 First, set up a new project on GitHub. This will eventually be turned into a website. The repository is where all the folders and files, including any images or media, for your project will go. The repository is also a way for others to view the “raw” content of your website and for collaborators to contribute to a shared repository. By default, GitHub will track changes to materials that are stored in a repository. While you can build your website from a subsection of your repository, it is a good practice to create a new repository for each project or website.
-
 * Ensure you have created a GitHub account and are logged in.
 * From your GitHub main page, click on the green New Repository button. 
     * Provide a name for your repository. This name will be part of the URL of your repository as well as part of the address of your published website, unless you choose a custom domain.
@@ -19,7 +18,6 @@ First, set up a new project on GitHub. This will eventually be turned into a web
     * You can also add a README file later if you like.
 * Click the Create repository button
 * Your browser will now open to the top-level page of the repository. Your repository will contain one file: README.md.
-
 {: .step}
 
 Step 2
