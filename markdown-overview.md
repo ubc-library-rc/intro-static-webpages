@@ -2,6 +2,7 @@
 layout: default
 title: Markdown Introduction
 nav_order: 7
+has_children: true
 ---
 
 # Intro to Markdown 
