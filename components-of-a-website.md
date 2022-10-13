@@ -11,7 +11,7 @@ Now that we've seen how simple it is to build a basic, informational, static web
 
 A web page can be broken down a couple of different ways. We're going to first look at the url structure to understand where content sits and how content is related in a website. Then we'll talk about the pieces that provide the look and feel of a web page.
 
-##Website
+## Website
 
 A website refers to all the web pages that make up a domain. A given web page is accessible through a URL - Uniform Resource Locator. A URL is made up of a series of components:
 
@@ -22,15 +22,15 @@ A website refers to all the web pages that make up a domain. A given web page is
 * A path - this is like the folder structure on your computer and tells us in what folder, on the server, the content is that you're looking at.
 * A resource - the file that you're viewing, that is, the web page or image you're looking at.
 
-##Web page
+## Web page
 
 A web page is the resource that you're viewing. Web pages are built using structure and aesthetics like most any document we're used to working with.
 
-###Structure
+### Structure
 
 The structure is written in html and it defines elements in a page. Common structures include headers, lists, and tables. Structures also group content together. Most web pages are divided into at least 3 groups of content, just like an academic paper; there's a banner, or header, the body, or content, and the footer.
 
-####HTML
+#### HTML
 
 <table>
   <tr>
@@ -263,7 +263,7 @@ UBC Library
 </table>
 
 
-####CSS
+#### CSS
 
 CSS - or style sheets - provide aesthetics; colours, position, fonts etc. 
 
@@ -293,7 +293,7 @@ if large is selected, h1 font-size = 48pt;
 
 This allows content to be reactive to user input, but only files local to the users computer have been edited.
 
-##Dynamic content
+## Dynamic content
 
 Dynamic content refers to the user entering data, this data being sent to the server, processed, and new information being sent back. We're not going to get into this! Things are complicated enough as they are.
 
