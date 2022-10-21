@@ -81,15 +81,18 @@ Written in html, this would look something like
 
 <table>
   <tr>
-   <td> <div id = "header"><br />
+   <td>
+     ```
+     <div id = "header">
         <div id = "nav" role = "navigation">
-        <ul>
-          <li>About</li>
-          <li>Contact</li>
-          <li>My Research</li>
-        </ul>
+          <ul>
+            <li>About</li>
+            <li>Contact</li>
+            <li>My Research</li>
+          </ul>
         </div>
-        </div>
+     </div>
+     ```
    </td>
    <td>About | Contact | My Research
    </td>
