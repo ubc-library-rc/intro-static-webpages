@@ -84,147 +84,90 @@ Written in html, this would look something like
    <td>
      &lt;div id = "header"><br />
         &lt;div id = "nav" role = "navigation"><br />
-          &lt;ul>
-            &lt;li>About</li>
-            &lt;li>Contact</li>
-            &lt;li>My Research</li>
-          &lt;/ul>
-        &lt;/div>
-     &lt;/div>
-     ```
+          &lt;ul><br />
+            &lt;li>About</li><br />
+            &lt;li>Contact</li><br />
+            &lt;li>My Research</li><br />
+          &lt;/ul><br />
+        &lt;/div><br />
+     &lt;/div><br />
    </td>
    <td style="background-color:#8fcfcb;text-align:center;"><button style="background-color:#ffffff;border:none;">About</button> <button style="background-color:#ffffff;border:none;">Contact</button> <button style="background-color:#ffffff;border:none;">My Research</button>
    </td>
   </tr>
   <tr>
-   <td>&lt;div id = "body">
-<p>
-      &lt;h1 id = "title">My Page!&lt;/h1>
-<p>
-      &lt;p>My List&lt;/p>
-<p>
-      &lt;ul>
-<p>
-            &lt;li>One thing&lt;/li>
-<p>
-            &lt;li>Two things&lt;/li>
-<p>
-            &lt;li>Three things&lt;/li>
-<p>
-      &lt;/ul>
-<p>
-      &lt;p>My Table&lt;/p>
-<p>
-      &lt;table>
-<p>
-           &lt;thead>
-<p>
-                 &lt;tr>
-<p>
-                       &lt;th>Person&lt;/th>
-<p>
-                       &lt;th>Age (yrs)&lt;/th>
-<p>
-                       &lt;th>Height (cm)&lt;/th>
-<p>
-                 &lt;/tr>
-<p>
-           &lt;/thead>
-<p>
-           &lt;tbody>
-<p>
-           &lt;/tbody>
-<p>
-                 &lt;tr>
-<p>
-                       &lt;td>A Sitalot&lt;/td>
-<p>
-                       &lt;td>23&lt;/td>
-<p>
-                       &lt;td>185&lt;/td>
-<p>
-                 &lt;/tr>
-<p>
-                 &lt;tr>
-<p>
-                       &lt;td>A Sitalot&lt;/td>
-<p>
-                       &lt;td>18&lt;/td>
-<p>
-                       &lt;td>160&lt;/td>
-<p>
-                 &lt;/tr>
-<p>
-            &lt;/tbody>
-<p>
-      &lt;/table>
-<p>
-&lt;/div>
+   <td>
+     &lt;div id = "body"><br />
+     &lt;h1 id = "title">My Page!&lt;/h1><br />
+     &lt;p>My List&lt;/p><br />
+     &lt;ul><br />
+     &lt;li>One thing&lt;/li><br />
+     &lt;li>Two things&lt;/li><br />
+     &lt;li>Three things&lt;/li><br />
+     &lt;/ul><br />
+     &lt;p>My Table&lt;/p><br />
+     &lt;table><br />
+     &lt;thead><br />
+     &lt;tr><br />
+     &lt;th>Person&lt;/th><br />
+     &lt;th>Age (yrs)&lt;/th><br />
+     &lt;th>Height (cm)&lt;/th><br />
+     &lt;/tr><br />
+     &lt;/thead><br />
+     &lt;tbody><br />
+     &lt;/tbody><br />
+     &lt;tr><br />
+     &lt;td>A Sitalot&lt;/td><br />
+     &lt;td>23&lt;/td><br />
+     &lt;td>185&lt;/td><br />
+     &lt;/tr><br />
+     &lt;tr><br />
+     &lt;td>A Sitalot&lt;/td><br />
+     &lt;td>18&lt;/td><br />
+     &lt;td>160&lt;/td><br />
+     &lt;/tr><br />
+     &lt;/tbody><br />
+     &lt;/table><br />
+     &lt;/div><br />
    </td>
-   <td>My Page!
-<p>
-My List
-<ul>
-
-<li>One thing
-
-<li>Two things
-
-<li>Three things
-
-<p>
-My Table
-
-<table>
-  <tr>
-   <td>Person
-</li>
-</ul>
-   </td>
-   <td>Age (yrs)
-   </td>
-   <td>Height (cm)
+   <td>
+     <h2 style="text-align:center;">My Page!</h2>
+     <p>My List</p>
+    <ul>
+      <li>One thing</li>
+      <li>Two things</li>
+      <li>Three things</li>
+    </ul>
+    <p>My Table</p>
+    <table>
+      <tr>
+        <td>Person</td>
+       <td>Age (yrs)</td>
+       <td>Height (cm)</td>
+      </tr>
+      <tr>
+        <td>A Sitalot</td>
+        <td>23</td>
+        <td>185</td>
+      </tr>
+      <tr>
+        <td>B Standalot</td>
+        <td>18</td>
+        <td>160</td>
+      </tr>
+    </table>
    </td>
   </tr>
   <tr>
-   <td>A Sitalot
-   </td>
-   <td>23
-   </td>
-   <td>185
-   </td>
-  </tr>
-  <tr>
-   <td>B Standalot
-   </td>
-   <td>18
-   </td>
-   <td>160
-   </td>
-  </tr>
-</table>
-
-
-   </td>
-  </tr>
-  <tr>
-   <td>&lt;div id = "footer">
-
-      &lt;p>&lt;a href="mailto:mail@mail.ubc.ca">mail@mail.ubc.ca&lt;/a>
-
-      &lt;p>Rm 217&lt;/p>
-
-      &lt;p>UBC Library&lt;/p>
-
-&lt;/div>
-
-   </td>
-   <td>[mail@mail.ubc.ca](mailto:mail@mail.ubc.ca)
-
-Rm 217
-
-UBC Library
-
+   <td>
+     &lt;div id = "footer"><br />
+     &lt;p>&lt;a href="mailto:mail@mail.ubc.ca">mail@mail.ubc.ca&lt;/a><br />
+     &lt;p>Rm 217&lt;/p><br />
+     &lt;p>UBC Library&lt;/p><br />
+     &lt;/div><br />
+    </td>
+   <td>
+     <td style="background-color:#8fcfcb;text-align:center;color:#ffffff;">mail@mail.ubc.ca<br />Rm 217<br />UBC Library</td>
    </td>
   </tr>
 </table>
