@@ -43,59 +43,35 @@ The structure is written in html and it defines elements in a page. Common struc
    <td>Content - What you want to tell people. It comprises headers, lists, tables etc. and potentially more sections of grouped content.
    </td>
    <td>My Page!
-<p>
-My List
-<ul>
-
-<li>One thing
-
-<li>Two things
-
-<li>Three things
-
-<p>
-My Table
-
-<table>
-  <tr>
-   <td>Person
-</li>
-</ul>
-   </td>
-   <td>Age (yrs)
-   </td>
-   <td>Height (cm)
-   </td>
+     <p>My List</p>
+    <ul>
+      <li>One thing</li>
+      <li>Two things</li>
+      <li>Three things</li>
+    </ul>
+    <p>My Table</p>
+    <table>
+      <tr>
+        <td>Person</td>
+       <td>Age (yrs)</td>
+       <td>Height (cm)</td>
+      </tr>
+      <tr>
+        <td>A Sitalot</td>
+        <td>23</td>
+        <td>185</td>
+      </tr>
+      <tr>
+        <td>B Standalot</td>
+        <td>18</td>
+        <td>160</td>
+      </tr>
+    </table>
+    </td>
   </tr>
   <tr>
-   <td>A Sitalot
-   </td>
-   <td>23
-   </td>
-   <td>185
-   </td>
-  </tr>
-  <tr>
-   <td>B Standalot
-   </td>
-   <td>18
-   </td>
-   <td>160
-   </td>
-  </tr>
-   </td>
-  </tr>
-  <tr>
-   <td>Footer - often a band of colour with contact information
-
-   </td>
-   <td>[mail@mail.ubc.ca](mailto:mail@mail.ubc.ca)
-
-Rm 217
-
-UBC Library
-
-   </td>
+   <td>Footer - often a band of colour with contact information</td>
+   <td>[mail@mail.ubc.ca](mailto:mail@mail.ubc.ca), Rm 217, UBC Library</td>
   </tr>
 </table>
 
