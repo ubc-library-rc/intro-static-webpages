@@ -5,16 +5,26 @@ nav_order: 6
 parent: Website Structure
 ---
 
-### Add files and folders
+## Adding files and folders
 
 With that basic understanding of website structure, you will create a folder structure in your GitHub repository that will consist of the components of your website. You’ll create a file and folder in your repository and upload a file from your computer to your new folder. 
 
-#### 1. Create a file (index.md)
+### 1. Create a file (index.md)
 
-* In the top-level repository page (which you can navigate to by clicking the &lt;> Code tab), click Add file > Create new file
-* When prompted to name your file, title it index.md. This creates an empty text file that GitHub will assume contains Markdown code.
-* Scroll down to the Commit new file section. 
-    * We won’t add anything to this new file for now–we’ll do that when we talk about Markdown.
+Step 1
+{: .label .label-step}
+In the top-level repository page (which you can navigate to by clicking the &lt;> Code tab), click Add file > Create new file
+{: .step}
+
+Step 2
+{: .label .label-step}
+When prompted to name your file, title it index.md. This creates an empty text file that GitHub will assume contains Markdown code.
+{: .step}
+
+Step 3
+{: .label .label-step}
+Scroll down to the Commit new file section. We won’t add anything to this new file for now–we’ll do that when we talk about Markdown.
+{: .step}
 
 #### 2. Create a folder
 
