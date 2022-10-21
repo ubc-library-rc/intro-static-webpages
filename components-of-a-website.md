@@ -36,7 +36,7 @@ The structure is written in html and it defines elements in a page. Common struc
   <tr>
    <td>Banner<br />Often an image with a navigation menu.
    </td>
-    <td style="background-color:#8fcfcb;text-align:center;"><button style="background-color:#ffffff;border:"none";">About</button> <button style="background-color:#ffffff;border:"none";">Contact</button> <button style="background-color:#ffffff;border:"none";">My Research</button>
+    <td style="background-color:#8fcfcb;text-align:center;"><button style="background-color:#ffffff;border:'none';">About</button> <button style="background-color:#ffffff;border:'none';">Contact</button> <button style="background-color:#ffffff;border:'none';">My Research</button>
    </td>
   </tr>
   <tr>
