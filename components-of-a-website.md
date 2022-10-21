@@ -83,13 +83,13 @@ Written in html, this would look something like
   <tr>
    <td>
      &lt;div id = "header"><br />
-        &lt;div id = "nav" role = "navigation"><br />
-          &lt;ul><br />
-            &lt;li>About</li><br />
-            &lt;li>Contact</li><br />
-            &lt;li>My Research</li><br />
-          &lt;/ul><br />
-        &lt;/div><br />
+     &nbsp;&lt;div id = "nav" role = "navigation"><br />
+     &nbsp;&nbsp;&lt;ul><br />
+     &nbsp;&nbsp;&nbsp;&lt;li>About</li><br />
+     &nbsp;&nbsp;&nbsp;&lt;li>Contact</li><br />
+     &nbsp;&nbsp;&nbsp;&lt;li>My Research</li><br />
+     &nbsp;&nbsp;&lt;/ul><br />
+     &nbsp;&lt;/div><br />
      &lt;/div><br />
    </td>
    <td style="background-color:#8fcfcb;text-align:center;"><button style="background-color:#ffffff;border:none;">About</button> <button style="background-color:#ffffff;border:none;">Contact</button> <button style="background-color:#ffffff;border:none;">My Research</button>
@@ -161,9 +161,9 @@ Written in html, this would look something like
   <tr>
    <td>
      &lt;div id = "footer"><br />
-     &lt;p>&lt;a href="mailto:mail@mail.ubc.ca">mail@mail.ubc.ca&lt;/a><br />
-     &lt;p>Rm 217&lt;/p><br />
-     &lt;p>UBC Library&lt;/p><br />
+     &nbsp;&lt;p>&lt;a href="mailto:mail@mail.ubc.ca">mail@mail.ubc.ca&lt;/a><br />
+     &nbsp;&lt;p>Rm 217&lt;/p><br />
+     &nbsp;&lt;p>UBC Library&lt;/p><br />
      &lt;/div><br />
     </td>
    <td>
