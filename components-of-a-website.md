@@ -179,35 +179,21 @@ CSS - or style sheets - provide aesthetics; colours, position, fonts etc.
 
 The above html would be accompanied by a stylesheet that dictates this formatting.
 
-#header {
-&nbsp;&nbsp;&nbsp;&nbsp;background-image: "tiger.jpg";
+#header {<br />
+&nbsp;&nbsp;&nbsp;&nbsp;background-image: "tiger.jpg";< br />
 }
 
-h1 {
-&nbsp;&nbsp;&nbsp;&nbsp;color: "blue";
-&nbsp;&nbsp;&nbsp;&nbsp;font-size: 24pt;
+h1 {< br />
+&nbsp;&nbsp;&nbsp;&nbsp;color: "blue";< br />
+&nbsp;&nbsp;&nbsp;&nbsp;font-size: 24pt;< br />
 }
 
-We know that web pages are so much more than just stylized text though. We can click on things, we can change font sizes etc. This requires an additional layer of coding, usually done with something like JavaScript, that updates the html and css on the fly based on where a user clicks. So if there's a button that allows the user to set a font size to small, medium or large, there's a piece of code that basically says
+## How GitHub Pages Works
 
-if small is selected, h1 font-size = 24pt;
+GitHub pages allows flexibility in how we code web pages. It allows us to write in html if we want, but if the above demo is any indication, html is extremely verbose, and there can be a fair bit to learn.
 
-if medium is selected, h1 font-size = 36pt;
+Alternatively, we can write in Markdown, a very simple, structured, plain text format. Behind the scenes, GitHub pages, with the aid of a service called Jekyll, translates Markdown to html.
 
-if large is selected, h1 font-size = 48pt;
+Markdown allows us to use a subset of the structural elements that html has available. Being a subset helps to keep it simple. Knowing a little bit about html, however, can help to take the structure of your web pages to the next level. And knowing a little bit about css will help you to create a custom look and feel. We dive any deeper into writing html, but we will use what we've seen here about html to help us create some custom styling with css later.
 
-This allows content to be reactive to user input, but only files local to the users computer have been edited.
-
-## Dynamic content
-
-Dynamic content refers to the user entering data, this data being sent to the server, processed, and new information being sent back. We're not going to get into this! Things are complicated enough as they are.
-
-Jekyll save us from having to worry about html, css, and javascript. It allows us to worry about these things if we'd like, but it lets us do a lot before having to consider any of this stuff. It does this by converting Markdown into a series of html, css, and js files based on pre-set themes.
-
-Index and then the other pages.
-
-
-* Html
-* Css
-* Js
-* Other config
+For now, we're going to explore Markdown, and use it to start to expand the page we made earlier.
