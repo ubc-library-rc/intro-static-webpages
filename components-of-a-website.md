@@ -161,7 +161,7 @@ Written in html, this would look something like
   <tr>
    <td>
      &lt;div id = "footer"><br />
-     &nbsp;&nbsp;&nbsp;&lt;p><br />&lt;a href="mailto:mail@mail.ubc.ca">mail@mail.ubc.ca&lt;/a><br />&lt;/p><br />
+     &nbsp;&nbsp;&nbsp;&lt;p><br />&lt;a>href="mailto:mail@mail.ubc.ca">mail@mail.ubc.ca&lt;/a><br />&lt;/p><br />
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;p>Rm 217&lt;/p><br />
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;p>UBC Library&lt;/p><br />
      &nbsp;&nbsp;&lt;/div><br />
