@@ -36,7 +36,7 @@ The structure is written in html and it defines elements in a page. Common struc
   <tr>
    <td>Banner<br />Often an image with a navigation menu.
    </td>
-    <td style="background-color:#8fcfcb;text-align:center;"><button style="background-color:#ffffff;border:'none';">About</button> <button style="background-color:#ffffff;border:'none';">Contact</button> <button style="background-color:#ffffff;border:'none';">My Research</button>
+    <td style="background-color:#8fcfcb;text-align:center;"><button style="background-color:#ffffff;border:none;">About</button> <button style="background-color:#ffffff;border:none;">Contact</button> <button style="background-color:#ffffff;border:none;">My Research</button>
    </td>
   </tr>
   <tr>
@@ -79,26 +79,17 @@ The structure is written in html and it defines elements in a page. Common struc
 
 Written in html, this would look something like
 
-
 <table>
   <tr>
-   <td>&lt;div id = "header">
-<p>
-      &lt;div id = "nav" role = "navigation">
-<p>
-            &lt;ul>
-<p>
-                  &lt;li>About&lt;/li>
-<p>
-                  &lt;li>Contact&lt;/li>
-<p>
-                  &lt;li>My Research&lt;/li>
-<p>
-            &lt;/ul>
-<p>
-     &lt;/div>
-<p>
-&lt;/div>
+   <td> <div id = "header"><br />
+        <div id = "nav" role = "navigation">
+        <ul>
+          <li>About</li>
+          <li>Contact</li>
+          <li>My Research</li>
+        </ul>
+        </div>
+        </div>
    </td>
    <td>About | Contact | My Research
    </td>
