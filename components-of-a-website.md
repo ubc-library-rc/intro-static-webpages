@@ -83,13 +83,13 @@ Written in html, this would look something like
   <tr>
    <td>
      &lt;div id = "header"><br />
-     &nbsp;&lt;div id = "nav" role = "navigation"><br />
-     &nbsp;&nbsp;&lt;ul><br />
-     &nbsp;&nbsp;&nbsp;&lt;li>About</li><br />
-     &nbsp;&nbsp;&nbsp;&lt;li>Contact</li><br />
-     &nbsp;&nbsp;&nbsp;&lt;li>My Research</li><br />
-     &nbsp;&nbsp;&lt;/ul><br />
-     &nbsp;&lt;/div><br />
+     &nbsp;&nbsp;&nbsp;&lt;div id = "nav" role = "navigation"><br />
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;ul><br />
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;li>About</li><br />
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;li>Contact</li><br />
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;li>My Research</li><br />
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/ul><br />
+     &nbsp;&nbsp;&nbsp;&lt;/div><br />
      &lt;/div><br />
    </td>
    <td style="background-color:#8fcfcb;text-align:center;"><button style="background-color:#ffffff;border:none;">About</button> <button style="background-color:#ffffff;border:none;">Contact</button> <button style="background-color:#ffffff;border:none;">My Research</button>
@@ -98,36 +98,36 @@ Written in html, this would look something like
   <tr>
    <td>
      &lt;div id = "body"><br />
-     &lt;h1 id = "title">My Page!&lt;/h1><br />
-     &lt;p>My List&lt;/p><br />
-     &lt;ul><br />
-     &lt;li>One thing&lt;/li><br />
-     &lt;li>Two things&lt;/li><br />
-     &lt;li>Three things&lt;/li><br />
-     &lt;/ul><br />
-     &lt;p>My Table&lt;/p><br />
-     &lt;table><br />
-     &lt;thead><br />
-     &lt;tr><br />
-     &lt;th>Person&lt;/th><br />
-     &lt;th>Age (yrs)&lt;/th><br />
-     &lt;th>Height (cm)&lt;/th><br />
-     &lt;/tr><br />
-     &lt;/thead><br />
-     &lt;tbody><br />
-     &lt;/tbody><br />
-     &lt;tr><br />
-     &lt;td>A Sitalot&lt;/td><br />
-     &lt;td>23&lt;/td><br />
-     &lt;td>185&lt;/td><br />
-     &lt;/tr><br />
-     &lt;tr><br />
-     &lt;td>A Sitalot&lt;/td><br />
-     &lt;td>18&lt;/td><br />
-     &lt;td>160&lt;/td><br />
-     &lt;/tr><br />
-     &lt;/tbody><br />
-     &lt;/table><br />
+     &nbsp;&nbsp;&nbsp;&lt;h1 id = "title">My Page!&lt;/h1><br />
+     &nbsp;&nbsp;&nbsp;&lt;p>My List&lt;/p><br />
+     &nbsp;&nbsp;&nbsp;&lt;ul><br />
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;li>One thing&lt;/li><br />
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;li>Two things&lt;/li><br />
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;li>Three things&lt;/li><br />
+     &nbsp;&nbsp;&nbsp;&lt;/ul><br />
+     &nbsp;&nbsp;&nbsp;&lt;p>My Table&lt;/p><br />
+     &nbsp;&nbsp;&nbsp;&lt;table><br />
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;thead><br />
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;tr><br />
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;th>Person&lt;/th><br />
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;th>Age (yrs)&lt;/th><br />
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;th>Height (cm)&lt;/th><br />
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/tr><br />
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/thead><br />
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;tbody><br />
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/tbody><br />
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;tr><br />
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;td>A Sitalot&lt;/td><br />
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;td>23&lt;/td><br />
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;td>185&lt;/td><br />
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/tr><br />
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;tr><br />
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;td>A Sitalot&lt;/td><br />
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;td>18&lt;/td><br />
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;td>160&lt;/td><br />
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/tr><br />
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/tbody><br />
+     &nbsp;&nbsp;&nbsp;&lt;/table><br />
      &lt;/div><br />
    </td>
    <td>
@@ -161,10 +161,10 @@ Written in html, this would look something like
   <tr>
    <td>
      &lt;div id = "footer"><br />
-     &nbsp;&lt;p>&lt;a href="mailto:mail@mail.ubc.ca">mail@mail.ubc.ca&lt;/a><br />
-     &nbsp;&lt;p>Rm 217&lt;/p><br />
-     &nbsp;&lt;p>UBC Library&lt;/p><br />
-     &lt;/div><br />
+     &nbsp;&nbsp;&nbsp;&lt;p>&lt;a href="mailto:mail@mail.ubc.ca">mail@mail.ubc.ca&lt;/a><br />
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;p>Rm 217&lt;/p><br />
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;p>UBC Library&lt;/p><br />
+     &nbsp;&nbsp;&lt;/div><br />
     </td>
     <td style="background-color:#8fcfcb;text-align:center;color:#ffffff;">mail@mail.ubc.ca<br />Rm 217<br />UBC Library</td>
   </tr>
