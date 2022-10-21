@@ -179,13 +179,13 @@ CSS - or style sheets - provide aesthetics; colours, position, fonts etc.
 
 The above html would be accompanied by a stylesheet that dictates this formatting.
 
-#header {<br />
-&nbsp;&nbsp;&nbsp;&nbsp;background-image: "tiger.jpg";< br />
+#header {  
+&nbsp;&nbsp;&nbsp;&nbsp;background-image: "tiger.jpg";  
 }
 
-h1 {< br />
-&nbsp;&nbsp;&nbsp;&nbsp;color: "blue";< br />
-&nbsp;&nbsp;&nbsp;&nbsp;font-size: 24pt;< br />
+h1 {  
+&nbsp;&nbsp;&nbsp;&nbsp;color: "blue";  
+&nbsp;&nbsp;&nbsp;&nbsp;font-size: 24pt;  
 }
 
 ## How GitHub Pages Works
@@ -196,4 +196,4 @@ Alternatively, we can write in Markdown, a very simple, structured, plain text f
 
 Markdown allows us to use a subset of the structural elements that html has available. Being a subset helps to keep it simple. Knowing a little bit about html, however, can help to take the structure of your web pages to the next level. And knowing a little bit about css will help you to create a custom look and feel. We dive any deeper into writing html, but we will use what we've seen here about html to help us create some custom styling with css later.
 
-For now, we're going to explore Markdown, and use it to start to expand the page we made earlier.
+For now, we're going to explore Markdown, and use it to start to expand the page we made earlier. But before we do that, we need to get some structure set up in our GitHub repository to hold our files.
