@@ -108,24 +108,23 @@ Written in html, this would look something like
      &nbsp;&nbsp;&nbsp;&lt;p>My Table&lt;/p><br />
      &nbsp;&nbsp;&nbsp;&lt;table><br />
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;thead><br />
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;tr><br />
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;th>Person&lt;/th><br />
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;th>Age (yrs)&lt;/th><br />
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;th>Height (cm)&lt;/th><br />
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/tr><br />
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;tr><br />
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;th>Person&lt;/th><br />
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;th>Age (yrs)&lt;/th><br />
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;th>Height (cm)&lt;/th><br />
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/tr><br />
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/thead><br />
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;tbody><br />
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/tbody><br />
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;tr><br />
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;td>A Sitalot&lt;/td><br />
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;td>23&lt;/td><br />
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;td>185&lt;/td><br />
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/tr><br />
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;tr><br />
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;td>A Sitalot&lt;/td><br />
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;td>18&lt;/td><br />
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;td>160&lt;/td><br />
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/tr><br />
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;tr><br />
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;td>A Sitalot&lt;/td><br />
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;td>23&lt;/td><br />
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;td>185&lt;/td><br />
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/tr><br />
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;tr><br />
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;td>A Sitalot&lt;/td><br />
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;td>18&lt;/td><br />
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;td>160&lt;/td><br />
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/tr><br />
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/tbody><br />
      &nbsp;&nbsp;&nbsp;&lt;/table><br />
      &lt;/div><br />
