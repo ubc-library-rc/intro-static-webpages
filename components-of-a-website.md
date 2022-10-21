@@ -171,6 +171,8 @@ Written in html, this would look something like
 </table>
 
 
+### Style
+
 #### CSS
 
 CSS - or style sheets - provide aesthetics; colours, position, fonts etc. 
@@ -178,17 +180,12 @@ CSS - or style sheets - provide aesthetics; colours, position, fonts etc.
 The above html would be accompanied by a stylesheet that dictates this formatting.
 
 #header {
-
 &nbsp;&nbsp;&nbsp;&nbsp;background-image: "tiger.jpg";
-
 }
 
 h1 {
-
 &nbsp;&nbsp;&nbsp;&nbsp;color: "blue";
-
 &nbsp;&nbsp;&nbsp;&nbsp;font-size: 24pt;
-
 }
 
 We know that web pages are so much more than just stylized text though. We can click on things, we can change font sizes etc. This requires an additional layer of coding, usually done with something like JavaScript, that updates the html and css on the fly based on where a user clicks. So if there's a button that allows the user to set a font size to small, medium or large, there's a piece of code that basically says
