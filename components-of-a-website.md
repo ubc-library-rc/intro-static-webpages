@@ -94,7 +94,7 @@ Written in html, this would look something like
      </div>
      ```
    </td>
-   <td>About | Contact | My Research
+   <td style="background-color:#8fcfcb;text-align:center;"><button style="background-color:#ffffff;border:none;">About</button> <button style="background-color:#ffffff;border:none;">Contact</button> <button style="background-color:#ffffff;border:none;">My Research</button>
    </td>
   </tr>
   <tr>
