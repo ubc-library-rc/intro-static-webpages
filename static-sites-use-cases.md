@@ -4,11 +4,13 @@ title: Static Site Use Cases
 parent: Static vs Dynamic Web Content
 ---
 
+## Use Cases
+
 In an academic environment, there are many reasons why you may wish to build and deploy a static web site. This includes:
 
 **Poster presentations**
 
-You can't say everything on a poster. Add a QR code and link to a static page with more information, contact details etc. There are many places to get a QR code generated; a great free option is QRCode Monkey - https://www.qrcode-monkey.com/ 
+You can't say everything on a poster. Add a QR code and link to a static page with more information, contact details etc. There are many places to get a QR code generated; a great free option is QRCode Monkey: [https://www.qrcode-monkey.com/](https://www.qrcode-monkey.com/)
 
 **Academic CVs**
 
@@ -25,11 +27,6 @@ Share your knowledge. Might be a blog. Might be a how to.
 **Project website**
 
 Build a basic site or full blown site about a major project you’re part of. Invite others to collaborate. Note that some projects might need more advanced development or a dynamic site
-
-{: .important-title}
-> Activity
->
-> Ask participants which uses they’re interested in (won’t lead to any changes in the workshop itself but could be good insight).
 
 ## Recap
 
