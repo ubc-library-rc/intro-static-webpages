@@ -71,7 +71,7 @@ The structure is written in html and it defines elements in a page. Common struc
   </tr>
   <tr>
    <td>Footer - often a band of colour with contact information</td>
-   <td>[mail@mail.ubc.ca](mailto:mail@mail.ubc.ca), Rm 217, UBC Library</td>
+   <td style="backgournd-color:#8fcfcb;text-align:center;colour:#ffffff;">mail@mail.ubc.ca<br />Rm 217<br />UBC Library</td>
   </tr>
 </table>
 
