@@ -174,7 +174,7 @@ Written in html, this would look something like
 
 #### CSS
 
-CSS - or style sheets - provide aesthetics; colours, position, fonts etc. 
+CSS - cascading style sheets - provide aesthetics; colours, position, fonts etc. 
 
 The above html would be accompanied by a stylesheet that dictates this formatting.
 
