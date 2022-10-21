@@ -34,13 +34,13 @@ The structure is written in html and it defines elements in a page. Common struc
 
 <table>
   <tr>
-   <td>Banner - often an image with a navigation menu
+   <td>Banner<br />Often an image with a navigation menu.
    </td>
     <td style="background-color:#8fcfcb;text-align:center;"><button style="background-color:#ffffff;border:"none";">About</button> <button style="background-color:#ffffff;border:"none";">Contact</button> <button style="background-color:#ffffff;border:"none";">My Research</button>
    </td>
   </tr>
   <tr>
-   <td>Content - What you want to tell people. It comprises headers, lists, tables etc. and potentially more sections of grouped content.
+   <td>Content<br />What you want to tell people. It comprises headers, lists, tables etc. and potentially more sections of grouped content.
    </td>
    <td>
      <h2 style="text-align:center;">My Page!</h2>
@@ -71,7 +71,7 @@ The structure is written in html and it defines elements in a page. Common struc
     </td>
   </tr>
   <tr>
-   <td>Footer - often a band of colour with contact information</td>
+   <td>Footer<br />often a band of colour with contact information.</td>
    <td style="background-color:#8fcfcb;text-align:center;color:#ffffff;">mail@mail.ubc.ca<br />Rm 217<br />UBC Library</td>
   </tr>
 </table>
