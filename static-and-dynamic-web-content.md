@@ -5,7 +5,7 @@ nav_order: 4
 has_children: true
 ---
 
-### Static vs Dynamic Web Content
+## Static vs Dynamic Web Content
 
 You may or may not have heard of these terms before: **_static_** and **_dynamic_**. But what do they mean when we're talking about web content?
 
