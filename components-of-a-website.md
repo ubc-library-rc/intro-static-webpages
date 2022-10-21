@@ -83,9 +83,6 @@ My Table
    <td>160
    </td>
   </tr>
-</table>
-
-
    </td>
   </tr>
   <tr>
