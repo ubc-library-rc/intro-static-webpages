@@ -82,16 +82,15 @@ Written in html, this would look something like
 <table>
   <tr>
    <td>
-     ```
-     <div id = "header">
-        <div id = "nav" role = "navigation">
-          <ul>
-            <li>About</li>
-            <li>Contact</li>
-            <li>My Research</li>
-          </ul>
-        </div>
-     </div>
+     &lt;div id = "header"><br />
+        &lt;div id = "nav" role = "navigation"><br />
+          &lt;ul>
+            &lt;li>About</li>
+            &lt;li>Contact</li>
+            &lt;li>My Research</li>
+          &lt;/ul>
+        &lt;/div>
+     &lt;/div>
      ```
    </td>
    <td style="background-color:#8fcfcb;text-align:center;"><button style="background-color:#ffffff;border:none;">About</button> <button style="background-color:#ffffff;border:none;">Contact</button> <button style="background-color:#ffffff;border:none;">My Research</button>
