@@ -166,9 +166,7 @@ Written in html, this would look something like
      &nbsp;&lt;p>UBC Library&lt;/p><br />
      &lt;/div><br />
     </td>
-   <td>
-     <td style="background-color:#8fcfcb;text-align:center;color:#ffffff;">mail@mail.ubc.ca<br />Rm 217<br />UBC Library</td>
-   </td>
+    <td style="background-color:#8fcfcb;text-align:center;color:#ffffff;">mail@mail.ubc.ca<br />Rm 217<br />UBC Library</td>
   </tr>
 </table>
 
