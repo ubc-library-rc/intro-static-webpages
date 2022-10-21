@@ -15,6 +15,8 @@ Dynamic web pages update as the user interacts with the page by drawing in addit
 
 Static web pages don't draw in additional data. Instead, they are made up of a number of files that contain all the content of the website. When someone accesses a static page, the file(s) that correspond to that page (that contain the content and formatting of that page) are called up. Because the files’ content is static, the website will look the same to everyone and at all times (unless someone edits the files). There are no additional communication steps on the server side which means that static web pages tend to load faster. Things like blogs, articles, personal profiles and so on tend to be static sites because they are relatively stable – you don’t need a blog or article or personal CV page to change for different users or from day to day. 
 
+### Content Management Systems
+
 Tools like WordPress are known as Content Management Systems (CMS). CMSs provide a way to manage content and customization of your website through a graphical user interface (GUI), making it easier to build a website without technical skills. CMSs typically handle the technical, dynamic, server communication side of things behind-the-scene, but there are some drawbacks:
 
 * Longer load times and unnecessary processes trying to run on a page
@@ -22,5 +24,7 @@ Tools like WordPress are known as Content Management Systems (CMS). CMSs provide
 * Dependent on plugins working
 * Restrictions on ability to export content (less control over site if you ever want to move your site)
 * While you can edit code (HTML, CSS, PHP), it can be harder to get into
+
+### Choosing the Right Option
 
 Here is where you might think about the needs of your website: your purpose, audience, context, and resources. As mentioned, relatively stable and self-contained types of websites like blogs, portfolios, online resumes, articles, and so on may be better suited to be static websites. A static site allows you to have more control over your content, move it, and store it, which is important if you want to be able to access or build on it later. If the website you want to build has a research component, for instance if you have a research blog or a website that shares some ‘about’ information and findings from a research project, there’s extra incentive to build something that is transparent, reproducible, and archivable. 
