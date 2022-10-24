@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CSS
+title: Multiple Pages
 nav_order: 11
 parent: Advanced Options
 ---
