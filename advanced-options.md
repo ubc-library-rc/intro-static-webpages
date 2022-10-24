@@ -12,11 +12,11 @@ A full list of themes compatible with GitHub Pages can be found here: [https://p
 
 To add a theme:
 
-Step 1 {: .label .label-step}  
+Step 1 {: .label .label-step}
 create a file called `_config.yml` in your root directory.
 {: .step}
 
-Step 2 {: .label .label-step}  
+Step 2 {: .label .label-step}
 Add the following to that file, replacing `theme-name` with the theme you'd like to use:
 
 ```
@@ -29,5 +29,5 @@ Some themes are added with the following, again, replacing `theme-name` with the
 remote_theme: theme-name
 plugins:
 - jekyll-remote-theme
-```  
+```
 {: .step}
