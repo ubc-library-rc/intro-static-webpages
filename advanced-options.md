@@ -4,7 +4,7 @@ title: Advanced Options
 nav_order: 8
 ---
 
-So far, our static site isn't looking like anything too special. There are a couple of ways that we can spruce up the look and feel of our site. The first is through the use of themes. This means playing around with YAML. YAML is basically a series of key value pairs and is wrapped by three dashes `---` placed at the top of your document:
+So far, our static site isn't looking like anything too special. There are a couple of ways that we can spruce up the look and feel of our site.  This means playing around with YAML. YAML is basically a series of key value pairs and is wrapped by three dashes `---` placed at the top of your document:
 
 ```
 ---
@@ -14,38 +14,6 @@ title: About
 
 YAML is space sensitive, so no spaces before the key, one space after the colon, and if you need to indent, an indent consists of two spaces.
 {: .note}
-
-## Themes
-
-A full list of themes compatible with GitHub Pages can be found here: [https://pages.github.com/themes/](https://pages.github.com/themes/).
-
-Following each theme to its documentation page, you'll see instructions for adding that theme to your site.
-
-### Adding a Theme
-
-Step 1
-{: .label .label-step}
-create a file called `_config.yml` in your root directory.
-{: .step}
-
-Step 2
-{: .label .label-step}
-Add the following to that file, replacing `theme-name` with the theme you'd like to use:
-
-```
-theme: theme-name
-```
-
-Some themes are added with the following, again, replacing `theme-name` with the theme you'd like to use:
-
-```
-remote_theme: theme-name
-plugins:
-- jekyll-remote-theme
-```
-{: .step}
-
-From the list of available themes, try adding one, like the Cayman, for example.
 
 ## Custom CSS
 
