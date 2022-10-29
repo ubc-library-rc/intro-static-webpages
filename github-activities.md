@@ -5,9 +5,7 @@ nav_order: 6
 parent: GitHub Introduction
 ---
 
-# 1. Create a new GitHub repository
-
-First, set up a new project on GitHub. This will eventually be turned into a website. The repository is where all the folders and files, including any images or media, for your project will go. The repository is also a way for others to view the “raw” content of your website and for collaborators to contribute to a shared repository. By default, GitHub will track changes to materials that are stored in a repository. While you can build your website from a subsection of your repository, it is a good practice to create a new repository for each project or website.
+## 1. Create a new GitHub repository
 
 Step 1
 {: .label .label-step}
@@ -17,40 +15,52 @@ Ensure you have created a GitHub account and are logged in.
 Step 2
 {: .label .label-step}
 From your GitHub main page, click on the green New Repository button.
+{: .step}
+
+Step 3
+{: .label .label-step}
 Provide a name for your repository. This name will be part of the URL of your repository as well as part of the address of your published website, unless you choose a custom domain.
 The repository URL will take the form: [https://github.com/](https://github.com/)&lt;your-github-username>/&lt;your-repo-name>
 {: .step}
 
-Step 3
+Step 4
 {: .label .label-step}
 Check the box to Initialize this repository with a README.
 NOTE: Your README file is a plain text file (same as a .txt file) that typically contains descriptive information about your repository (Who made it? What does it contain? What is it for?, etc.).
 You can also add a README file later if you like.
 {: .step}
 
-Step 4
+Step 5
 {: .label .label-step}
 Click the Create repository button. 
+{: .step}
+
+Step 6
+{: .label .label-step}
 Your browser will now open to the top-level page of the repository. Your repository will contain one file: README.md.
 {: .step}
 
 
-# 2. Set up GitHub Pages 
+## 2. Set up GitHub Pages 
 
 In this step, you will enable the GitHub Pages feature in your repository settings. GitHub Pages knits together your repository files and turns them into an HTML site.
 
 Step 1
 {: .label .label-step}
 Open the Settings Tab in your repository.
-Go to Settings > Options. Scroll down to the GitHub Pages section.
 {: .step}
 
 Step 2
 {: .label .label-step}
-For the Source, set Branch:main and set the folder to /(root) and click Save. This directs GitHub pages to the top-level of your repository for your website content.
+Go to Settings > Options. Scroll down to the GitHub Pages section.
 {: .step}
 
 Step 3
+{: .label .label-step}
+For the Source, set Branch:main and set the folder to /(root) and click Save. This directs GitHub pages to the top-level of your repository for your website content.
+{: .step}
+
+Step 4
 {: .label .label-step}
 You should see a link to your website appear in the GitHub Pages section. That link is now live.
 NOTE: You may initially receive a 404 error as the website is being built.
@@ -58,7 +68,7 @@ NOTE: You may initially receive a 404 error as the website is being built.
 
 Your website will look pretty empty at this stage. Keep this tab open so when you make changes in this workshop, you can refresh the page and view your changes.
 
-# 3. Edit and save README file 
+## 3. Edit and save README file 
 
 In this step, you’ll go into the README file that was created in the previous step and edit it with some information. The README file is a Markdown file, as indicated by the .md extension. We’ll talk more about Markdown files later; for now, just treat it as a plain text file.
 
