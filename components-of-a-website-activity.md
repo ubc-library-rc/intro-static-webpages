@@ -5,11 +5,11 @@ nav_order: 6
 parent: Website Structure
 ---
 
-# Adding files and folders
+## Adding files and folders
 
 With that basic understanding of website structure, you will create a folder structure in your GitHub repository that will consist of the components of your website. You’ll create a file and folder in your repository and upload a file from your computer to your new folder. 
 
-## 1. Create a file (index.md)
+### 1. Create a file (index.md)
 
 Step 1
 {: .label .label-step}
@@ -26,7 +26,7 @@ Step 3
 Scroll down to the Commit new file section. We won’t add anything to this new file for now–we’ll do that when we talk about Markdown.
 {: .step}
 
-## 2. Create a folder
+### 2. Create a folder
 
 Step 1
 {: .label .label-step}
@@ -38,7 +38,7 @@ Step 2
 When prompted to name your file, enter images/temp.txt. Commit your changes. This will create a folder called images and an empty file inside of it called temp.txt (which can be deleted later, once you’ve moved more files into the images folder).
 {: .step}
 
-## 3. Upload a file
+### 3. Upload a file
 
 Step 1
 {: .label .label-step}
