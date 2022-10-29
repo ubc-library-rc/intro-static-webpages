@@ -9,7 +9,7 @@ parent: Advanced Options
 
 We can also customize our css to get a still more personal touch. Earlier, we touched briefly on css - creative style sheets.
 
-Step 1
+1
 {: .label .label-step}
 Create the following file in the following directories:
 ```
@@ -17,7 +17,7 @@ assets/css/style.scss
 ```
 {: .step}
 
-Step 2
+2
 {: .label .label-step}
 add the following to that file:
 ```
@@ -28,7 +28,7 @@ add the following to that file:
 ```
 {: .step}
 
-Step 3
+3
 {: .label .label-step}
 Use your browser's 'inspect' option to see the html tags, classes, and IDs applied to your webpage.
 {: .step}
@@ -42,7 +42,7 @@ h1 {
 }
 ```
 
-Step 4
+4
 {: .label .label-step}
 Update your `style.scss` document accordingly:
 ```
