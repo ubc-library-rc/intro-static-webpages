@@ -13,12 +13,12 @@ Following each theme to its documentation page, you'll see instructions for addi
 
 ## Adding a Theme
 
-Step 1
+1
 {: .label .label-step}
 create a file called `_config.yml` in your root directory.
 {: .step}
 
-Step 2
+2
 {: .label .label-step}
 Add the following to that file, replacing `theme-name` with the theme you'd like to use:
 
