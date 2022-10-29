@@ -14,7 +14,7 @@ You will now start editing your markdown file. First, you will be adding somethi
 Open your ```index.md``` file for editing.
 {: .step}
 
-Step 2
+2
 {: .label .label-step}
 Using the GitHub editor, copy (or type) the text below and paste it at the top (including the dashes):
 {: .step}
@@ -31,22 +31,22 @@ nav_order: 1
 
 Now let's add some content to the body of the file--this is what will appear on your published webpage. 
 
-Step 1
+1
 {: .label .label-step}
 Open up a Markdown guide. You can use the [Mastering Markdown guide](https://guides.github.com/features/mastering-markdown/) and/or [markdownguide.org's Basic Syntax Guide](https://www.markdownguide.org/basic-syntax/) (or other guides you find on the web).
 {: .step}
 
-Step 2
+2
 {: .label .label-step}
 Add some text in **bold** and some text that is _italicized_.
 {: .step}
 
-Step 3
+3
 {: .label .label-step}
 Add a #####heading (any level), followed by a bulleted list.
 {: .step}
 
-Step 4
+4
 {: .label .label-step}
 Insert the image that you uploaded earlier OR insert an image from the web.
 {: .step}
