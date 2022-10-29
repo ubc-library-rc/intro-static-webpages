@@ -93,7 +93,7 @@ Step 4
 Scroll to the bottom of the page where it says Commit changes. There are two comment boxes that can be filled in when committing changes. The short description is required–ideally, it contains a brief message about the changes you made to the file. An optional larger description box can be filled out, as well.
 {: .step}
 
-Step 4
+Step 5
 {: .label .label-step}
 Go back to your published website page and reload it–it might take a minute but your page should now display the edited README file.
 {: .step}
