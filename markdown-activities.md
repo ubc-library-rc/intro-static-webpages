@@ -6,9 +6,18 @@ parent: Markdown Introduction
 ---
 
 ## Add a title and front matter
-Let's add some front matter to your markdown file (we will discuss this in more detail in a later section). Front matter provides information about the web page's presentation and structure (title, layout, page order in a list, etc.). 
-- Open your ```index.md``` file for editing. 
-- Using the GitHub editor, copy the text below and paste it at the top (including the dashes):
+
+You will now start editing your markdown file. First, you will be adding something called **front matter** (more specifically, a YAML front matter block). The front matter must be at the top of the page and must take the form of valid YAML set between triple-dashed lines. It maintains metadata for the page and is used by the underlying static site tool (Jekyll) when building your website from the files. Any front matter won't appear on the published webpage.
+
+Step 1
+{: .label .label-step}
+Open your ```index.md``` file for editing.
+{: .step}
+
+Step 2
+{: .label .label-step}
+Using the GitHub editor, copy (or type) the text below and paste it at the top (including the dashes):
+{: .step}
 
 ```
 ---
@@ -18,20 +27,29 @@ nav_order: 1
 ---
 ```
 
-Don't worry if this information looks a bit weird when you preview the page--it won't appear on your final web page.  
-
 ## Use Markdown to add content to index.md
-Using the [Mastering Markdown guide](https://guides.github.com/features/mastering-markdown/) and/or [markdownguide.org's Basic Syntax Guide](https://www.markdownguide.org/basic-syntax/) (or other guides you find on the web) as a reference, enter text beneath the front matter to create a fictional document that contains some of the following elements: 
-- Headings of a number of different levels
-- Bolded, italicized text 
-- Insert an image from the web
-- Insert the image that you uploaded to the ```images``` folder in this repository
-- An ordered list
-- A bulleted list
-- A link to another website
-- A snippet of code
-- A table
-- And finally, an emoji! (you can use the [Markdown Emoji cheat sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) as a reference)
+
+Now let's add some content to the body of the file--this is what will appear on your published webpage. 
+
+Step 1
+{: .label .label-step}
+Open up a Markdown guide. You can use the [Mastering Markdown guide](https://guides.github.com/features/mastering-markdown/) and/or [markdownguide.org's Basic Syntax Guide](https://www.markdownguide.org/basic-syntax/) (or other guides you find on the web).
+{: .step}
+
+Step 2
+{: .label .label-step}
+Add some text in **bold** and some text that is _italicized_.
+{: .step}
+
+Step 3
+{: .label .label-step}
+Add a #####heading (any level), followed by a bulleted list.
+{: .step}
+
+Step 4
+{: .label .label-step}
+Insert the image that you uploaded earlier OR insert an image from the web.
+{: .step}
 
 ### Some Notes
 - Use the **Preview changes** tab to see (mostly) how it will look on your page. 
@@ -43,17 +61,9 @@ Using the [Mastering Markdown guide](https://guides.github.com/features/masterin
 **Commit your changes** and enjoy the products of your hard work!
 
 ## Create a second markdown page
-The website you make in the next lesson will have two pages. Here, you are going to create the second page. 
-- In the top level of your repository (remember, you can click the ```<> Code``` tab to get there), create a new markdown file. Name it as you wish, but ensure that it is free of spaces and special characters and ends in ```.md``` (e.g. ```pagetwo.md``` works just fine). 
-- As done earlier, add front matter with a title. Set the ```nav_order``` value to 2 (this will inform GitHub Pages to make this the second menu item in your website), as shown below: 
-```
----
-title: <enter a different title here>
-layout: default
-nav_order: 2
----
-```
-- Add a few sentences and **commit your changes**.
+Prompt: How would you create a second markdown page for your website?
+
+What steps would you need to take? What would you need to change in the front matter?
 
 ### Some More Notes
 
