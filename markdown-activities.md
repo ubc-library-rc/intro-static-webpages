@@ -7,7 +7,7 @@ parent: Markdown Introduction
 
 ## Add a title and front matter
 
-You will now start editing your markdown file. First, you will be adding something called **front matter** (more specifically, a YAML front matter block). The front matter must be at the top of the page and must take the form of valid YAML set between triple-dashed lines. It maintains metadata for the page and is used by the underlying static site tool (Jekyll) when building your website from the files. Any front matter won't appear on the published webpage.
+You will now start editing your markdown file. First, you will be adding something called **front matter** (more specifically, a YAML front matter block). The front matter must be at the top of the page and must take the form of valid YAML set between triple-dashed lines. It maintains metadata for the page and is used by the underlying static site tool (Jekyll) when building your website from the files. Any front matter won't appear on the published webpage. More on YAML later.
 
 1
 {: .label .label-step}
