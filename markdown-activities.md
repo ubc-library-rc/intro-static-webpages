@@ -43,7 +43,7 @@ Add some text in **bold** and some text that is _italicized_.
 
 3
 {: .label .label-step}
-Add a #####heading (any level), followed by a bulleted list.
+Add a heading (any level), followed by a bulleted list.
 {: .step}
 
 4
