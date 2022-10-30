@@ -7,7 +7,7 @@ has_children: true
 
 # Components of a Web Site
 
-Now that we've seen how simple it is to build a basic, informational, static website with GitHub pages, it's worth talking a bit more about how web pages and web sites are structured. We'll then get into a bit more detail about Markdown before exploring some of the more advanced options available to 'dress up' the aesthetics of a static web page.
+Now that we've seen how simple it is to create a basic (albeit empty) static website with GitHub pages, it's worth talking a bit more about how web pages and web sites are structured. We'll then show you how to add folders and files to your GitHub repository, and how to edit the files to produce structured web pages with content.
 
 A web page can be broken down a couple of different ways. We're going to first look at the url structure to understand where content sits and how content is related in a website. Then we'll talk about the pieces that provide the look and feel of a web page.
 
@@ -28,7 +28,7 @@ A web page is the resource that you're viewing. Web pages are built using struct
 
 ### Structure
 
-The structure is written in html and it defines elements in a page. Common structures include headers, lists, and tables. Structures also group content together. Most web pages are divided into at least 3 groups of content, just like an academic paper; there's a banner, or header, the body, or content, and the footer.
+The structure of a web page is written in HTML and it defines elements in a page. Common structures include headers, lists, and tables. Structures also group content together. Most web pages are divided into at least 3 groups of content, just like an academic paper; there's a banner, or header, the body, or content, and the footer.
 
 #### HTML
 
@@ -174,9 +174,9 @@ Written in html, this would look something like
 
 #### CSS
 
-CSS - cascading style sheets - provide aesthetics; colours, position, fonts etc. 
+CSS - which stands for cascading style sheets - provide aesthetics; colours, position, fonts etc. 
 
-The above html would be accompanied by a stylesheet that dictates this formatting.
+The above html would be accompanied by a stylesheet that dictates this formatting by indicating how various components should be styled.
 
 #header {  
 &nbsp;&nbsp;&nbsp;&nbsp;background-image: "tiger.jpg";  
@@ -187,12 +187,12 @@ h1 {
 &nbsp;&nbsp;&nbsp;&nbsp;font-size: 24pt;  
 }
 
-## How GitHub Pages Works
+## Advantages of GitHub Pages
 
-GitHub pages allows flexibility in how we code web pages. It allows us to write in html if we want, but if the above demo is any indication, html is extremely verbose, and there can be a fair bit to learn.
+GitHub Pages allows flexibility in how we code web pages. It allows us to write in html if we want, but if the above demo is any indication, html is extremely verbose, and there can be a fair bit to learn.
 
 Alternatively, we can write in Markdown, a very simple, structured, plain text format. Behind the scenes, GitHub pages, with the aid of a service called Jekyll, translates Markdown to html.
 
-Markdown allows us to use a subset of the structural elements that html has available. Being a subset helps to keep it simple. Knowing a little bit about html, however, can help to take the structure of your web pages to the next level. And knowing a little bit about css will help you to create a custom look and feel. We dive any deeper into writing html, but we will use what we've seen here about html to help us create some custom styling with css later.
+Markdown allows us to use a subset of the structural elements that html has available. Being a subset helps to keep it simple. Knowing a little bit about html, however, can help to take the structure of your web pages to the next level. And knowing a little bit about css will help you to create a custom look and feel. 
 
-For now, we're going to explore Markdown, and use it to start to expand the page we made earlier. But before we do that, we need to get some structure set up in our GitHub repository to hold our files.
+In this workshop, we will use Markdown to write some files that will be turned by GitHub Pages into HTML, and into a web page. First, we need to get some structure set up in our GitHub repository to hold our files.
