@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GitHub Activities
+title: Create a GitHub Repository
 nav_order: 6
 parent: GitHub Introduction
 ---
