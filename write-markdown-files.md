@@ -5,9 +5,30 @@ nav_order: 2
 parent: Markdown Introduction
 ---
 
-## Add a title and front matter
+## 1. Create a Markdown file (index.md)
 
-You will now start editing your markdown file. First, you will be adding something called **front matter** (more specifically, a YAML front matter block). The front matter must be at the top of the page and must take the form of valid YAML set between triple-dashed lines. It maintains metadata for the page and is used by the underlying static site tool (Jekyll) when building your website from the files. Any front matter won't appear on the published webpage. More on YAML later.
+Remember how GitHub Pages is currently using your README.md file to generate the homepage of your website? Now we will create an **index.md** file. If an **index.md** file exists in your repository, GitHub Pages will automatically use it (instead of the README.md file) as the homepage.
+
+1
+{: .label .label-step}
+In the top-level repository page (which you can navigate to by clicking the &lt;> Code tab), click Add file > Create new file
+{: .step}
+
+2
+{: .label .label-step}
+When prompted to name your file, title it index.md. This creates an empty text file that GitHub will assume contains Markdown code. Make sure you have the .md extension or else the page won't be built correctly!
+{: .step}
+
+3
+{: .label .label-step}
+Scroll down to the Commit new file section. 
+{: .step}
+
+## 2. Add a title and front matter
+
+Now let's get to editing your markdown file! First, you will be adding something called **front matter** (more specifically, a YAML front matter block). The front matter must be at the top of the page and must be set between triple-dashed lines. This front matter maintains metadata for the page and is used by the underlying static site tool (Jekyll) when building your website from the files. Front matter won't appear on the published webpage. 
+
+Let's add three things: title, layout, and nav_order.
 
 1
 {: .label .label-step}
@@ -27,7 +48,7 @@ nav_order: 1
 ---
 ```
 
-## Use Markdown to add content to index.md
+## 3. Use Markdown to add content to index.md
 
 Now let's add some content to the body of the file--this is what will appear on your published webpage. 
 
@@ -48,7 +69,7 @@ Add a heading (any level), followed by a bulleted list.
 
 4
 {: .label .label-step}
-Insert the image that you uploaded earlier OR insert an image from the web.
+Use one more styling syntax of your choosing.
 {: .step}
 
 ### Some Notes
@@ -60,7 +81,7 @@ Insert the image that you uploaded earlier OR insert an image from the web.
 <br>
 **Commit your changes** and enjoy the products of your hard work!
 
-## Create a second markdown page
+## 4. Create a second markdown page
 Prompt: How would you create a second markdown page for your website?
 
 What steps would you need to take? What would you need to change in the front matter?
@@ -69,3 +90,4 @@ What steps would you need to take? What would you need to change in the front ma
 
 You might find some things you would like to do that is possible only using HTML, such as symbols, subscripts and superscripts, and others. Here is one resource on how to format HTML to insert symbols: [HTML Symbols reference page](https://www.w3schools.com/html/html_symbols.asp)
 Additional resources are widely available on the web.
+** This is not the only way you can style your web page: using themes, CSS, Javascript, etc. are additional, though more advanced, methods.
