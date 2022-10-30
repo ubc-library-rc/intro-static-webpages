@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Markdown Activities
-nav_order: 1
+nav_order: 2
 parent: Markdown Introduction
 ---
 
