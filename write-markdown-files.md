@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Write Files in Markdown
-nav_order: 2
+nav_order: 1
 parent: Markdown Introduction
 ---
 
