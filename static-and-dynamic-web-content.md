@@ -7,13 +7,13 @@ has_children: true
 
 ## Static vs Dynamic Web Content
 
-You may or may not have heard of these terms before: **_static_** and **_dynamic_**. But what do they mean when we're talking about web content?
+First, let's go over two key terms: **_static_** and **_dynamic_**. What do they mean when we're talking about web content?
 
-Dynamic web pages update as the user interacts with the page by drawing in additional data from servers and databases. When someone accesses a dynamic page, what they see is actually the result of a number of data-fetching processes that pull information from databases behind-the-scenes. The result is a page that changes (hence the term dynamic) depending on the user, when it is accessed, and other factors. For instance, social media sites, shopping sites, Google – these are all examples of dynamic web content because they build pages as they are accessed. This means they can display pages that look different for different users and are able to display changes in information in real time.
+**Dynamic** web pages update as the user interacts with the page by drawing in additional data from servers and databases. When someone accesses a dynamic page, what they see is actually the result of a number of data-fetching processes that pull information from databases behind-the-scenes. The result is a page that changes (hence the term dynamic) depending on the user, when it is accessed, and other factors. For instance, social media sites, shopping sites, Google – these are all examples of dynamic web content because they build pages as they are accessed. 
 
 ![Google dynamically populating potential search terms.](https://raw.githubusercontent.com/ubc-library-rc/intro-static-webpages/main/content/images/google-dynamic-screenshot.png)
 
-Static web pages don't draw in additional data. Instead, they are made up of a number of files that contain all the content of the website. When someone accesses a static page, the file(s) that correspond to that page (that contain the content and formatting of that page) are called up. Because the files’ content is static, the website will look the same to everyone and at all times (unless someone edits the files). There are no additional communication steps on the server side which means that static web pages tend to load faster. Things like blogs, articles, personal profiles and so on tend to be static sites because they are relatively stable – you don’t need a blog or article or personal CV page to change for different users or from day to day. 
+**Static** web pages don't draw in additional data. Instead, they are made up of a number of files that contain all the content of the website. When someone accesses a static page, the file(s) that correspond to that page (that contain the content and formatting of that page) are called up. Because the files’ content is static, the website will look the same to everyone and at all times (unless someone edits the files). There are no additional communication steps on the server side which means that static web pages tend to load faster. Things like blogs, articles, personal profiles and so on tend to be static sites because they are relatively stable – you don’t need a blog or article or personal CV page to change for different users or from day to day. 
 
 ### Content Management Systems
 
@@ -23,7 +23,6 @@ Tools like WordPress are known as Content Management Systems (CMS). CMSs provide
 * Need frequent updates to stay running and secure
 * Dependent on plugins working
 * Restrictions on ability to export content (less control over site if you ever want to move your site)
-* While you can edit code (HTML, CSS, PHP), it can be harder to get into
 
 ### Choosing the Right Option
 
