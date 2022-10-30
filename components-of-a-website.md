@@ -194,4 +194,4 @@ Alternatively, we can write in Markdown, a very simple, structured, plain text f
 
 Markdown allows us to use a subset of the structural elements that html has available. Being a subset helps to keep it simple. Knowing a little bit about html, however, can help to take the structure of your web pages to the next level. And knowing a little bit about css will help you to create a custom look and feel. 
 
-In this workshop, we will use Markdown to write some files that will be turned by GitHub Pages into HTML, and into a web page. First, we need to get some structure set up in our GitHub repository to hold our files.
+In this workshop, we will use Markdown to write some files that will be turned by GitHub Pages into HTML, and into a web page. 
