@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Markdown Activities
+title: Write Files in Markdown
 nav_order: 2
 parent: Markdown Introduction
 ---
