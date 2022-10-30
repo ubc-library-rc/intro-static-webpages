@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Website Structure Activity 
-nav_order: 6
-parent: Website Structure
+title: Adding Files and Folders
+nav_order: 1
+parent: Markdown Introduction
 ---
 
 ## Adding files and folders
