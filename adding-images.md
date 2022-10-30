@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Adding Files and Folders
-nav_order: 1
+title: Adding Images
+nav_order: 2
 parent: Markdown Introduction
 ---
 
