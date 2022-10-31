@@ -6,7 +6,7 @@ nav_order: 6
 
 # Components of a Web Site
 
-Now that we've seen how simple it is to create a basic (albeit empty) static website with GitHub pages, it's worth talking a bit more about how web pages and web sites are structured. We'll then show you how to add folders and files to your GitHub repository, and how to edit the files to produce structured web pages with content.
+Now that we've seen how simple it is to create a basic (albeit empty) static website with GitHub pages, it's worth talking a bit more about how web pages and web sites are structured. We'll then show you how to add some web page styling/formatting and structuring in the next section. 
 
 A web page can be broken down a couple of different ways. We're going to first look at the url structure to understand where content sits and how content is related in a website. Then we'll talk about the pieces that provide the look and feel of a web page.
 
