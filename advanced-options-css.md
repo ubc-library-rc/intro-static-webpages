@@ -35,7 +35,7 @@ Commit your changes.
 
 4
 {: .label .label-step}
-Use your browser's 'inspect' option to see the html tags, classes, and IDs applied to your webpage. To find inspect, right click on the web page and click "Inspect."
+Refresh your page (it might take a minute!). Use your browser's 'inspect' option to see the html tags, classes, and IDs applied to your webpage. To find inspect, right click on the web page and click "Inspect."
 {: .step}
 
 ## 2. Using tags and classes and IDs in CSS
@@ -58,7 +58,7 @@ Update your `style.scss` document accordingly:
 ---
 ---
 
-@import "{{ site.theme }}";
+@import "minima";
 
 h1 {
   color: #e91e63;
