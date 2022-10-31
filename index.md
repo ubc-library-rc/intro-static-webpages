@@ -10,7 +10,7 @@ This workshop will introduce you to static web pages and give you the skills to 
 
 ## Pre-workshop Setup
 
-* Register for a GitHub account at [GitHub.com](github.com). 
+* Register for a GitHub account at [GitHub.com](https://github.com). 
 
 This workshop will use a web browser only, so there is no need to install Git or GitHub locally. However, if you’d like to learn more about Git and GitHub before the workshop, check out the materials for the [Intro to Git and GitHub workshop](https://ubc-library-rc.github.io/intro-git/)
 
