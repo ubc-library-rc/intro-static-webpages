@@ -14,7 +14,7 @@ Ensure you have created a GitHub account and are logged in.
 
 2
 {: .label .label-step}
-From your GitHub main page, click on the green New Repository button.
+From your GitHub main page, click on the plus icon, followed by the New Repository button.
 {: .step}
 
 3
@@ -25,10 +25,11 @@ The repository URL will take the form: https://github.com/<your-github-username>
 
 4
 {: .label .label-step}
-Check the box to Initialize this repository with a README.
-NOTE: Your README file is a plain text file (same as a .txt file) that typically contains descriptive information about your repository (Who made it? What does it contain? What is it for?, etc.).
-You can also add a README file later if you like.
+Check the box to Initialize this repository with a README. 
 {: .step}
+
+Your README file is a plain text file (same as a .txt file) that typically contains descriptive information about your repository (Who made it? What does it contain? What is it for?, etc.). You can also add a README file later if you like.
+{: .note}
 
 5
 {: .label .label-step}
@@ -52,7 +53,7 @@ Open the Settings Tab in your repository.
 
 2
 {: .label .label-step}
-Go to Settings > Options. Scroll down to the GitHub Pages section.
+Scroll down to the GitHub Pages section.
 {: .step}
 
 3
@@ -62,7 +63,7 @@ For the Source, set Branch:main and set the folder to /(root) and click Save. Th
 
 4
 {: .label .label-step}
-You should see a link to your website appear in the GitHub Pages section. That link is now live.
+After a while, you should see a link to your website appear in the GitHub Pages section. That link is now live.
 NOTE: You may initially receive a 404 error as the website is being built.
 {: .step}
 
@@ -84,9 +85,13 @@ To edit files, click on the pencil icon beside where it says “Raw” and “Bl
 
 3
 {: .label .label-step}
-The README file is where you would give a description of your repository. You could also add a CC license here to indicate how you wish to share your project.
+The README file is where you would give a description of your repository. You could also add a CC license here to indicate how you wish to share your project. For this activity, copy and paste the following text to your README file.
 {: .step}
 
+```
+This work is licensed under a Creative Commons Attribution 4.0 International License.
+```
+  
 4
 {: .label .label-step}
 Scroll to the bottom of the page where it says Commit changes. There are two comment boxes that can be filled in when committing changes. The short description is required: a brief message about the changes you made to the file. An optional larger description box can be filled out, as well.
@@ -94,7 +99,7 @@ Scroll to the bottom of the page where it says Commit changes. There are two com
 
 5
 {: .label .label-step}
-Click on the green Commit button.
+Put "add license info" in the short commit box. Click on the green Commit button.
 {: .step}
   
 6
@@ -102,4 +107,4 @@ Click on the green Commit button.
 Go back to your published website page and reload it–-it might take a minute but your page should now display the edited README file.
 {: .step}
 
-By default, GitHub Pages will use your README.md file as the homepage for your web page **unless** there is a file called index.md in the repository. We’ll be creating this index.md later in the workshop. 
+By default, GitHub Pages will use your README.md file as the homepage for your web page **unless** there is a file called **index.md** in the repository. We’ll be creating this index.md later in the workshop. 
