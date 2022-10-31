@@ -35,11 +35,6 @@ Commit your changes.
 
 4
 {: .label .label-step}
-Refresh your published web page (the changes may take a minute to process).
-{: .step}
-
-5
-{: .label .label-step}
 Use your browser's 'inspect' option to see the html tags, classes, and IDs applied to your webpage. To find inspect, right click on the web page and click "Inspect."
 {: .step}
 
