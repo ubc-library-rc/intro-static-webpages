@@ -15,7 +15,7 @@ Following each theme to its documentation page, you'll see instructions for addi
 
 1
 {: .label .label-step}
-create a file called `_config.yml` in your root directory.
+Create a file called `_config.yml` in your root directory.
 {: .step}
 
 2
@@ -36,3 +36,13 @@ plugins:
 {: .step}
 
 From the list of available themes, try adding one, like the Cayman, for example.
+
+3
+{: .label .label-step}
+For the next activities, we will be using the Minima theme. Please add or change your theme accordingly (by replacing anything you have in your file with the following):
+
+```
+theme: minima
+```
+
+{: .step}
