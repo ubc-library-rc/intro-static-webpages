@@ -24,7 +24,7 @@ Add the following to that file. This imports an existing theme to your CSS file.
 ---
 ---
 
-@import "{{ site.theme }}";
+@import "minima";
 ```
 {: .step}
 
