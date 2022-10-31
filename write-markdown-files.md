@@ -81,10 +81,10 @@ Use one more styling syntax of your choosing.
 <br>
 **Commit your changes** and enjoy the products of your hard work!
 
-## 4. Create a second markdown page
+## Create a second markdown page
 Prompt: How would you create a second markdown page for your website?
 
-What steps would you need to take? What would you need to change in the front matter?
+What steps would you need to take? 
 
 ### Some More Notes
 
