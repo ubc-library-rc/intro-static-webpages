@@ -24,7 +24,7 @@ Add the following to that file. This imports an existing theme to your CSS file.
 ---
 ---
 
-@import "minima";
+@import "{{ site.theme }}";
 ```
 {: .step}
 
@@ -58,12 +58,21 @@ Update your `style.scss` document accordingly:
 ---
 ---
 
-@import "minima";
+@import "{{ site.theme }}";
 
-h1 {
-  color: #e91e63;
+.blue {
+  color: #fff;
+  background: #000;
 }
+
+h2 {
+  color: #ff5733;
+}
+
+#footer, .site-header {
+  background-color: #6b9da0;
+}
+
 ```
-{: .step}
 
 What changes occurred in your web page?
