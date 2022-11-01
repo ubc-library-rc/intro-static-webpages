@@ -43,8 +43,6 @@ Using the GitHub editor, copy (or type) the text below and paste it at the top (
 ```
 ---
 title: <enter your title here>
-layout: default
-nav_order: 1
 ---
 ```
 
