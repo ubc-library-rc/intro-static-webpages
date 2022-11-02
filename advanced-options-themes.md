@@ -30,8 +30,6 @@ Some themes are added with the following, again, replacing `theme-name` with the
 
 ```
 remote_theme: theme-name
-plugins:
-- jekyll-remote-theme
 ```
 {: .step}
 
