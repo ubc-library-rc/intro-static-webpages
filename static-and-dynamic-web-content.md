@@ -24,6 +24,8 @@ Tools like WordPress are known as Content Management Systems (CMS). CMSs provide
 * Dependent on plugins working
 * Restrictions on ability to export content (less control over site if you ever want to move your site)
 
+![static vs. dynamic](/content/images/static_dynamic.jpeg)
+
 ### Choosing the Right Option
 
 Here is where you might think about the needs of your website: your purpose, audience, context, and resources. As mentioned, relatively stable and self-contained types of websites like blogs, portfolios, online resumes, articles, and so on may be better suited to be static websites. A static site allows you to have more control over your content, move it, and store it, which is important if you want to be able to access or build on it later. If the website you want to build has a research component, for instance if you have a research blog or a website that shares some ‘about’ information and findings from a research project, there’s extra incentive to build something that is transparent, reproducible, and archivable. 
