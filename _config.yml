@@ -1,7 +1,7 @@
-title: Building webpages with GitHub Pages
+title: Building Webpages with GitHub Pages
 remote_theme: ubc-library-rc/rc-theme
 color_scheme: rc
-github_repo_url: "https://github.com/ubc-library-rc/REPOSITORY-NAME/" 
+github_repo_url: "https://github.com/ubc-library-rc/intro-static-webpages/" 
 
 # license information for workshop content
 license_name: "Creative Commons Attribution 4.0 International License"
@@ -12,3 +12,4 @@ license_image_url: "https://i.creativecommons.org/l/by/4.0/88x31.png"
 plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
+  - jekyll-include-cache
